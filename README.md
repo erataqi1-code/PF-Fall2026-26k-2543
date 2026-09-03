@@ -33,6 +33,8 @@ _calculus
 `git status`
 ## Image url
 ![Programming](https://github.com/erataqi1-code/PF-Fall2026-26k-2543: Programming Fundamentals Lab Work-Fall 2026)
-
+## Question
+**Q: Why would a team prefer branches and pull requests instead of committing directly to main?**
+**A:** Branches allow multiple developers to work separately without breaking the main code. Pull requests let the team review code for errors before merging, which makes collaboration safer and more organized.
 
 
