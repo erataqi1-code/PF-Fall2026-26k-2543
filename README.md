@@ -27,8 +27,8 @@ _calculus
 ## Tasks List
 -[x] Complete Task 1
 -[x] Complete Task 2
--[ ] Complete Task 3
--[ ] Complete Task 4
+-[x] Complete Task 3
+-[x] Complete Task 4
 ## Inline code:
 `git status`
 ## Image url
